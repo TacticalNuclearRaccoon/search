@@ -1,0 +1,12 @@
+beautifulsoup4==4.11.2
+bs4==0.0.1
+huggingface-hub==0.12.1
+requests==2.28.2
+requests-html==0.10.0
+sentencepiece==0.1.97
+soupsieve==2.4
+streamlit==1.18.1
+tokenizers==0.13.2
+transformers==4.26.1
+urllib3==1.26.14
+
